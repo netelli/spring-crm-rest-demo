@@ -1,0 +1,5 @@
+# Default ignored files
+/spring-crm-rest-demo.iws
+
+# Project exclude paths
+/target/
